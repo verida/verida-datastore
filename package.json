@@ -37,7 +37,7 @@
     "@verida/encryption-utils": "^0.2.1",
     "@verida/wallet-utils": "^1.3.1",
     "ajv": "^6.12.6",
-    "axios": "^0.19.2",
+    "axios": "^0.21.2",
     "bs58": "^4.0.1",
     "crypto-pouch": "git+https://github.com/tahpot/crypto-pouch.git#910feb51dd006d9a05639d984501eeda77e213bf",
     "did-document": "github:arablocks/did-document",
